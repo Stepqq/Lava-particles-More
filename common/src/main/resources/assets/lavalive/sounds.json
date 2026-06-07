@@ -1,0 +1,28 @@
+{
+  "lava_bubble_pop": {
+    "subtitle": "subtitles.lavalive.lava_bubble_pop",
+    "sounds": [
+      {
+        "name": "lavalive:lava_bubble_pop_0",
+        "stream": false
+      },
+      {
+        "name": "lavalive:lava_bubble_pop_1",
+        "stream": false
+      },
+      {
+        "name": "lavalive:lava_bubble_pop_2",
+        "stream": false
+      }
+    ]
+  },
+  "lava_rumble": {
+    "subtitle": "subtitles.lavalive.lava_rumble",
+    "sounds": [
+      {
+        "name": "lavalive:lava_rumble_0",
+        "stream": true
+      }
+    ]
+  }
+}

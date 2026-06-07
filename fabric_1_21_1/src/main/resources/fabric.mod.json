@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "lavalive",
+  "version": "${version}",
+  "name": "Lava Particles | More",
+  "description": "An atmospheric mod making Minecraft lava feel alive with cinematic bubbling and popping.",
+  "authors": [
+    "stepqq"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/lava-particles-more"
+  },
+  "license": "LGPL-3.0-only",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.lavalive.fabric.LavaLiveFabric"
+    ],
+    "client": [
+      "com.lavalive.fabric.LavaLiveFabricClient"
+    ],
+    "modmenu": [
+      "com.lavalive.fabric.LavaModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16",
+    "minecraft": "~1.21.1",
+    "fabric-api": "*"
+  }
+}

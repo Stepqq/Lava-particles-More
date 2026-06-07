@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="LGPL-3.0-only"
+
+[[mods]]
+modId="lavalive"
+version="1.0.0"
+displayName="Lava Particles | More"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/lava-particles-more"
+authors="stepqq"
+logoFile="lavalive.png"
+description="An atmospheric mod making Minecraft lava feel alive with cinematic bubbling and popping."
