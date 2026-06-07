@@ -5,6 +5,7 @@
 [![Loaders](https://img.shields.io/badge/Loaders-Fabric%20%7C%20Forge%20%7C%20NeoForge-df5926?style=flat-square)](#)
 
 **Lava Particles | More** is an immersive client-side Minecraft mod that completely overhauls the visual and audio atmosphere around lava. It introduces dynamic magma geysers, bubbling surface effects, realistic droplet physics, and boiling sizzle particles.
+
 https://modrinth.com/mod/lava-particles-more
 
 ---
